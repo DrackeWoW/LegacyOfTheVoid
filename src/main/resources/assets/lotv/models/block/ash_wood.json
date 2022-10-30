@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "lotv:block/ash_log",
+    "side": "lotv:block/ash_log"
+  }
+}

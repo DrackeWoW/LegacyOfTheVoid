@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lotv:block/bleached_shade_stone_slab"
+    },
+    "type=double": {
+      "model": "lotv:block/bleached_shade_stone"
+    },
+    "type=top": {
+      "model": "lotv:block/bleached_shade_stone_slab_top"
+    }
+  }
+}

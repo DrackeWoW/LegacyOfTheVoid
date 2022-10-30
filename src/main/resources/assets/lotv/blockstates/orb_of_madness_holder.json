@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": {"model": "lotv:block/orb_of_madness_holder"},
+    "facing=east": {"model": "lotv:block/orb_of_madness_holder", "y": 90},
+    "facing=south": {"model": "lotv:block/orb_of_madness_holder", "y": 180},
+    "facing=west": {"model": "lotv:block/orb_of_madness_holder", "y": 270}
+  }
+}

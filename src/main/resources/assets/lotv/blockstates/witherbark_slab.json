@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lotv:block/witherbark_slab"
+    },
+    "type=double": {
+      "model": "lotv:block/witherbark_planks"
+    },
+    "type=top": {
+      "model": "lotv:block/witherbark_slab_top"
+    }
+  }
+}

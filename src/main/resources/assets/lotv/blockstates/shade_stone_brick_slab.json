@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "lotv:block/shade_stone_brick_slab"
+    },
+    "type=double": {
+      "model": "lotv:block/shade_stone_bricks"
+    },
+    "type=top": {
+      "model": "lotv:block/shade_stone_brick_slab_top"
+    }
+  }
+}

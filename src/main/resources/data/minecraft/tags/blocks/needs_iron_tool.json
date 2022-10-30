@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "lotv:shade_stone",
+    "lotv:shade_soil",
+    "lotv:scorched_shade_soil"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "lotv:block/shade_stone_bricks",
+    "side": "lotv:block/shade_stone_bricks",
+    "top": "lotv:block/shade_stone_bricks"
+  }
+}

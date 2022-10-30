@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "lotv:valorous_soulsteel_block"
+  },
+  "result": "lotv:refined_valorous_soulsteel",
+  "experience": 100,
+  "cookingtime": 200
+}

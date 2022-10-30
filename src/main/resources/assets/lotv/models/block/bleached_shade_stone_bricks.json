@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "lotv:block/bleached_shade_stone_bricks"
+  }
+}

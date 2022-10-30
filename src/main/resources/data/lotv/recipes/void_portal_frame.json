@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#D#",
+    "EDE",
+    "#D#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bone_block"
+    },
+    "D": {
+      "item": "lotv:void_stone"
+    },
+    "E": {
+      "item": "lotv:soulsteel_ingot"
+    }
+  },
+  "result": {
+    "item": "lotv:void_portal_frame",
+    "count": 1
+  }
+}

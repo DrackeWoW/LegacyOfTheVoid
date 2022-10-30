@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "lotv:block/stripped_witherbark_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "lotv:block/stripped_witherbark_log"
+    },
+    "axis=z": {
+      "model": "lotv:block/stripped_witherbark_log_horizontal",
+      "x": 90
+    }
+  }
+}

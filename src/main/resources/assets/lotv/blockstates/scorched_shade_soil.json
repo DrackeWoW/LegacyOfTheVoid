@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "lotv:block/scorched_shade_soil"
+      },
+      {
+        "model": "lotv:block/scorched_shade_soil",
+        "y": 90
+      },
+      {
+        "model": "lotv:block/scorched_shade_soil",
+        "y": 180
+      },
+      {
+        "model": "lotv:block/scorched_shade_soil",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "lotv:block/scorched_shade_soil_snow"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "lotv:block/stripped_witherbark_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y":{
+      "model": "lotv:block/stripped_witherbark_wood"
+    },
+    "axis=y": {
+      "model": "lotv:block/stripped_witherbark_wood",
+      "x": 90
+    }
+  }
+}

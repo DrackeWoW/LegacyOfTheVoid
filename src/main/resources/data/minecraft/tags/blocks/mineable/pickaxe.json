@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "lotv:void_infested_deepslate",
+    "lotv:void_infested_end_stone",
+    "lotv:void_stone_ore",
+
+    "lotv:void_portal_frame",
+
+    "lotv:valorous_soulsteel_block",
+    "lotv:tormented_soulsteel_block",
+
+    "lotv:shade_stone",
+    "lotv:shade_stone_bricks",
+    "lotv:shade_stone_brick_stairs",
+    "lotv:shade_stone_brick_slab",
+
+    "lotv:orb_of_madness_holder",
+
+    "lotv:grave_stone",
+    "lotv:weathered_grave_stone",
+    "lotv:shattered_grave_stone",
+    "lotv:void_infested_grave_stone"
+  ]
+}

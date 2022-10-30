@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "lotv:block/void_portal_frame_bottom",
+    "side": "lotv:block/void_portal_frame"
+  }
+}

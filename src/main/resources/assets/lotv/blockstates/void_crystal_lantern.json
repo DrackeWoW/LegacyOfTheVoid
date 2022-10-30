@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "lotv:block/void_crystal_lantern"
+    },
+    "hanging=true": {
+      "model": "lotv:block/void_crystal_lantern_hanging"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "lotv:block/shade_stone",
+    "particle": "minecraft:block/obsidian",
+    "side": "lotv:block/shade_soil_side_snow",
+    "top": "minecraft:block/grass_block_top"
+  }
+}

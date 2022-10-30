@@ -1,0 +1,93 @@
+{
+  "item.lotv.void_stone": "Void Stone",
+  "item.lotv.void_stone_helmet": "Void Stone Helmet",
+  "item.lotv.void_stone_chestplate": "Void Stone Chestplate",
+  "item.lotv.void_stone_legguards": "Void Stone Legguards",
+  "item.lotv.void_stone_boots": "Void Stone Boots",
+
+  "item.lotv.hollow_soul": "Hollow Soul",
+  "item.lotv.valorous_soul_fragment": "Valorous Soul Fragment",
+  "item.lotv.tormented_soul_fragment": "Tormented Soul Fragment",
+  "item.lotv.soulsteel_ingot": "Soulsteel Ingot",
+  "item.lotv.valorous_soulsteel": "Valorous Soulsteel",
+  "item.lotv.tormented_soulsteel": "Tormented Soulsteel",
+  "item.lotv.refined_valorous_soulsteel": "Refined Valorous Soulsteel",
+  "item.lotv.refined_tormented_soulsteel": "Refined Tormented Soulsteel",
+  "block.lotv.valorous_soulsteel_block": "Valorous Soulsteel Block",
+  "block.lotv.tormented_soulsteel_block": "Tormented Soulsteel Block",
+  "item.lotv.broken_hero_sword": "Broken Hero's Sword",
+
+  "item.lotv.justice": "§6Justice",
+  "item.lotv.justice.tooltip": "§eChance to Invigorate the Wielder",
+  "item.lotv.justice.tooltip2": "§eor Smite the Target",
+  "item.lotv.justice.tooltip3": "§2On use protects the Wielder with an Angelic Bulwark",
+
+  "item.lotv.vengeance": "§5Vengeance",
+  "item.lotv.vengeance.tooltip": "§eChance to grant Relentless Pursuit",
+  "item.lotv.vengeance.tooltip2": "§eor steal some of Target's Life Force",
+  "item.lotv.vengeance.tooltip3": "§cMight consume the Host's Essence in Battle",
+
+  "item.lotv.reinforced_leather": "Reinforced Leather",
+
+  "item.lotv.mining_goggles": "Mining Goggles",
+  "item.lotv.mining_jacket": "Mining Jacket",
+
+  "item.lotv.orb_of_madness": "§eOrb of Madness",
+  "item.lotv.orb_of_madness.tooltip": "Listen to the whispers",
+  "item.lotv.orb_of_madness.message1": "§7§oMysterious voice: §5§oMarc will steal your wheat...",
+  "item.lotv.orb_of_madness.message2": "§7§oMysterious voice: §5§oThe Void hungers.",
+  "item.lotv.orb_of_madness.message3": "§7§oMysterious voice: §5§oconsume. Devour. FEAST.",
+  "item.lotv.orb_of_madness.message4": "§7§oMysterious voice: §5§kHello World.",
+
+  "block.lotv.void_infested_deepslate": "Void Infested Deepslate",
+  "block.lotv.void_infested_end_stone": "Void Infested End Stone",
+  "block.lotv.void_stone_ore": "Void Stone Ore",
+
+  "block.lotv.void_portal_frame": "Void Portal Frame",
+
+
+  "block.lotv.scorched_shade_soil": "Scorched Shade Soil",
+  "block.lotv.corpse_wasp_nest_part": "Corpse Wasp Nest Part",
+  "block.lotv.scorched_shade_stone": "Scorched Shade Stone",
+  "block.lotv.scorched_shade_stone_slab": "Scorched Shade Stone Slab",
+  "block.lotv.scorched_shade_stone_stairs": "Scorched Shade Stone Stairs",
+  "block.lotv.scorched_shade_stone_bricks": "Scorched Shade Stone Bricks",
+  "block.lotv.scorched_shade_stone_brick_stairs": "Scorched Shade Stone Brick Stairs",
+  "block.lotv.scorched_shade_stone_brick_slab": "Scorched Shade Stone Brick Slab",
+  "block.lotv.bleached_void_crystal": "Bleached Void Crystal",
+  "block.lotv.charred_witherbark_log": "Charred Witherbark Log",
+  "block.lotv.stripped_charred_witherbark_log": "Stripped Charred Witherbark Log",
+  "block.lotv.charred_witherbark_wood": "Charred Witherbark Wood",
+  "block.lotv.stripped_charred_witherbark_wood": "Stripped Charred Witherbark Wood",
+  "block.lotv.charred_witherbark_planks": "Charred Witherbark Planks",
+  "block.lotv.charred_witherbark_slab": "Charred Witherbark Slab",
+  "block.lotv.charred_witherbark_stairs": "Charred Witherbark Stairs",
+  "block.lotv.charred_witherbark_leaves": "Charred Witherbark Leaves",
+
+
+  "block.lotv.shade_stone": "Shade Stone",
+  "block.lotv.shade_stone_stairs": "Shade Stone Stairs",
+  "block.lotv.shade_stone_slab": "Shade Stone Slab",
+  "block.lotv.shade_stone_bricks": "Shade Stone Bricks",
+  "block.lotv.shade_stone_brick_stairs": "Shade Stone Brick Stairs",
+  "block.lotv.shade_stone_brick_slab": "Shade Stone Brick Slab",
+
+  "block.lotv.shade_soil": "Shade Soil",
+  "block.lotv.witherbark_log": "Witherbark Log",
+  "block.lotv.stripped_witherbark_log": "Stripped Witherbark Log",
+  "block.lotv.witherbark_wood": "Witherbark Wood",
+  "block.lotv.stripped_witherbark_wood": "Stripped Witherbark Wood",
+  "block.lotv.witherbark_planks": "Witherbark Planks",
+  "block.lotv.witherbark_slab": "Witherbark Slab",
+  "block.lotv.witherbark_stairs": "Witherbark Stairs",
+  "block.lotv.witherbark_leaves": "Witherbark Leaves",
+
+  "block.lotv.orb_of_madness_holder": "Orb of Madness Holder",
+
+  "block.lotv.grave_stone": "Grave Stone",
+  "block.lotv.weathered_grave_stone": "Weathered Grave Stone",
+  "block.lotv.shattered_grave_stone": "Shattered Grave Stone",
+  "block.lotv:void_infested_grave_stone": "Void Infested Grave Stone",
+
+  "itemGroup.lotv.void_stone": "Void Items"
+}

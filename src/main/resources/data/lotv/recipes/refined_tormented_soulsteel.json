@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "lotv:tormented_soulsteel_block"
+  },
+  "result": "lotv:refined_tormented_soulsteel",
+  "experience": 100,
+  "cookingtime": 200
+}

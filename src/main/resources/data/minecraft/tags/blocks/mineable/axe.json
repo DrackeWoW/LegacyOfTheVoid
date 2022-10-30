@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "lotv:witherbark_log",
+    "lotv:stripped_witherbark_log",
+    "lotv:witherbark_wood",
+    "lotv:stripped_witherbark_wood",
+    "lotv:witherbark_planks"
+  ]
+}
