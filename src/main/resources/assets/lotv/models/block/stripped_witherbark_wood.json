@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "lotv:block/stripped_witherbark_log",
+    "side": "lotv:block/stripped_witherbark_log"
+  }
+}
